@@ -8,10 +8,14 @@ A comprehensive software solution to streamline hospital operations, manage pati
 ✅ **Appointment Scheduling** – Manage patient appointments with reminders.  
 ✅ **Billing & Payments** – Generate invoices & process payments.  
 ✅ **Role-Based Access** – Secure data with role-based authentication.  
-                        Different for Patients , Doctors and Admin.
-
+                    
 ## 🛠️ Tech Stack  
 - **Frontend:** React
 - **Backend:** Node.js  
 - **Database:** MongoDB  
 - **Authentication:** JWT 
+
+## 🚀 Getting Started  
+1️⃣ **Clone the Repository**  
+
+
