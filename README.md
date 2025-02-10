@@ -1,4 +1,4 @@
-# 🏥 Hospital Management System  
+# 🏥 DOCTOR APPOINTMENT BOOKING SYSTEM  
 
 A comprehensive software solution to streamline hospital operations, manage patient records, and enhance healthcare efficiency.  
 
