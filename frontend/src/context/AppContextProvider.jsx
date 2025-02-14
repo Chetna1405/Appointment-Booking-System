@@ -2,8 +2,11 @@ import { AppContext } from "./AppContext";
 import { doctors } from "../assets/assets";
 import PropTypes from "prop-types";
 const AppContextProvider = ({ children }) => {
+    
+    const currencySymbol = '$'
     const value = {
-        doctors
+        doctors,
+        currencySymbol
     }
     return (
         <AppContext.Provider value={value}>
